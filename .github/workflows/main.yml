@@ -1,4 +1,4 @@
-name: ci
+name: Github Actions workflow web server using Nginx
 
 on:
   push:
